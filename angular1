@@ -1,0 +1,5 @@
+let x=6;
+let y:number;
+let z=0;
+
+
